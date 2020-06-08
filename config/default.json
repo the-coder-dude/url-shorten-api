@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb+srv://urlboy:hangon@cluster0-cawnt.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "baseUrl": "http://pp0.xyz"
+}
