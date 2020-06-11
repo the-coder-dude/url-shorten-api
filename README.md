@@ -23,4 +23,3 @@ You will get the following response
 ```
 
 
-<script async src="https://cdn.reqbin.com/embed/js/1gbqgmbr?uhz"></script>
