@@ -1,5 +1,6 @@
 # url-shorten-api
-This URL Shortener API can be accessed by: http://pp0.xyz/api/url/shorten
+
+This URL Shortener API can be accessed by: http://pp0.xyz/api/shorten
 
 
 Post the following using Postman:

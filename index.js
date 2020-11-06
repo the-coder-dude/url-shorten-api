@@ -18,7 +18,7 @@ app.use(express.json());
 
 app.get('/', (req, res) => {
 
-    res.send('Shorten your URLs here only!')
+    res.send('© Prateek Pardeshi 2020')
 })
 
 app.use(function (req, res, next) {
@@ -28,7 +28,7 @@ app.use(function (req, res, next) {
 });
 
 app.use('/', require('./routes/index'));
-app.use('/api/url', require('./routes/url'));
+app.use('/api', require('./routes/url'));
 
 
 
